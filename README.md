@@ -4,6 +4,8 @@
 Author:
 Xu Chengguo, Xue Yueju, Hou Wenhao, Guo jingfeng, Wang Xiarui 
 
+**农业工程学报**: http://www.tcsae.org/nygcxb/article/abstract/20221419?st=search
+
 该文结合 Transformer 网络与无锚点目标检测头，提出了一种新的仔猪姿态识别模型 TransFree（ Transformer + Anchor-Free）。该模型使用 Swin Transformer 作为基础网络，提取仔猪图像的局部和全局特征，然后经过一个特征增强模块（ Feature Enhancement Module， FEM）进行多尺度特征融合并得到高分辨率的特征图，最后将融合后的特征图输入 Anchor-Free 检测头进行仔猪的定位和姿态识别。
 
 
