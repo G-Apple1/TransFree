@@ -1,0 +1,11 @@
+ctdet
+--exp_id
+test###做测试
+--not_prefetch_test#在原始测试集上
+--arch
+swint-none
+--keep_res
+--load_model
+/home/server/xcg/CenterNet/exp/ctdet/ctdet_coco_swint_none/model_last.pth
+
+###获得模型指标（P/R/F1），生成混淆矩阵

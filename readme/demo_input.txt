@@ -1,0 +1,12 @@
+ctdet
+--dataset###
+pig_coco
+--keep_res
+--vis_thresh###预测框的置信度阈值
+0.5
+--arch
+swint
+--load_model
+/home/server/xcg/CenterNet/exp/ctdet/ctdet_coco_swint_2/model_last-2.pth
+
+###模型可视化
