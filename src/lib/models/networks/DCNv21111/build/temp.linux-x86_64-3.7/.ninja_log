@@ -1,0 +1,5 @@
+# ninja log v5
+0	2755	1640957101709018290	/home/server/xcg/CenterNet/src/lib/models/networks/DCNv2/build/temp.linux-x86_64-3.7/home/server/xcg/CenterNet/src/lib/models/networks/DCNv2/src/cpu/dcn_v2_cpu.o	309089e7d01bbbf2
+0	8161	1640957107116943408	/home/server/xcg/CenterNet/src/lib/models/networks/DCNv2/build/temp.linux-x86_64-3.7/home/server/xcg/CenterNet/src/lib/models/networks/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	634c6480398d007c
+0	8303	1640957107256941478	/home/server/xcg/CenterNet/src/lib/models/networks/DCNv2/build/temp.linux-x86_64-3.7/home/server/xcg/CenterNet/src/lib/models/networks/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	aedf142298668745
+0	13759	1640957112712866526	/home/server/xcg/CenterNet/src/lib/models/networks/DCNv2/build/temp.linux-x86_64-3.7/home/server/xcg/CenterNet/src/lib/models/networks/DCNv2/src/vision.o	2f0ed225084a7036
