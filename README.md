@@ -13,6 +13,12 @@ Xu Chengguo, Xue Yueju, Hou Wenhao, Guo jingfeng, Wang Xiarui
 
 ![image](https://user-images.githubusercontent.com/62458945/198508204-2aee1148-0fa9-4ad2-8f5c-e9b7c0086603.png)
 
+
+**下载模型权重**
+链接：https://pan.baidu.com/s/1xYRWnf70EtzTt8vDt9wYcw 
+提取码：Gguo 
+
+
 **demo命令行**
 ```python
 /home/server/xcg/CenterNet/src/demo.py
